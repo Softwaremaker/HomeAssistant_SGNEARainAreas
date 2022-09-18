@@ -1,5 +1,5 @@
 # HomeAssistant_SGNEARainAreas
-Simple project to locally host SG NEA Rain Areas Webpage Card locally
+Simple project to locally host (on HA) and display the SG NEA Rain Areas Webpage Card
 
 ![EndResult](https://user-images.githubusercontent.com/1997252/190862299-d5e0b68a-1a51-415a-bc2d-75f8c9b205bf.JPG)
 
